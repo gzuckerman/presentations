@@ -40,7 +40,7 @@
     "loader-utils": "^1.1.0",
     "mdx-constant": "^0.1.0",
     "mdx-live": "2.0.0-alpha.2",
-    "next": "7.0.2",
+    "next": "11.1.0",
     "next-compose-plugins": "2.1.1",
     "now": "^12.1.8",
     "react": "^16.8.0",
